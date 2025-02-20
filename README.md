@@ -4,6 +4,5 @@
 -> In this project,we are hiding our message within an Image,which we may later decrypt and gain the original message. <br />
 
 
--> To run stego.py you need to have install :-
-1. Python3 <br />
+-> To run stego.py you need to have install :-1. Python3 <br />
 2. Some python Library (i.e, open-cv,os and string)
