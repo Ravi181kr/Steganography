@@ -5,5 +5,5 @@
 
 
 -> To run stego.py you need to have install :-
-1. Python3 <br />
+1. Python3
 2. Some python Library (i.e, open-cv,os and string)
