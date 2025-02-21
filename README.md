@@ -7,4 +7,6 @@
 -> To run stego_tkinter.py file you need to have install :-
 1. Python3
 2. Some python Library (i.e, open-cv,os,string,tkinter and pillow)
+
+   Screenshot of Application
 ![Screenshot 2025-02-21 213122](https://github.com/user-attachments/assets/fb90a1ab-7cb5-4e80-ad7e-130184b2a42e)
